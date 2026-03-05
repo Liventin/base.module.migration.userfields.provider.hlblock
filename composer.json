@@ -1,0 +1,13 @@
+{
+  "name": "liventin/base.module.migration.userfields.provider.hlblock",
+  "type": "bitrix-d7-module",
+  "description": "Hl Block Provider for service migration bitrix userfield",
+  "require-dev": {
+    "roave/security-advisories": "dev-latest"
+  },
+  "require": {
+    "php": ">=8.1",
+    "liventin/base.module": "^1.0.0",
+    "liventin/base.module.migration.userfields": "^1.0.0"
+  }
+}
